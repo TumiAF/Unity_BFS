@@ -3,3 +3,4 @@ Hello.txt filter=lfs diff=lfs merge=lfs -text
 Assets filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
 TestFold filter=lfs diff=lfs merge=lfs -text
+Logs filter=lfs diff=lfs merge=lfs -text
